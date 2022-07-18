@@ -1,2 +1,2 @@
-# DataScProj1
-It consists of my works in Data Science
+# Data Science Projects
+It consists of my projects in Data Science
